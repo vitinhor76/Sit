@@ -3,7 +3,7 @@ body
 {
 background-color: orange;
   color:red;
-  font-size: 12pt;
+  font-size: 30pt;
   font-family: Arial;
 {
 h;
@@ -11,3 +11,7 @@ h;
   color: red;
   font-family: green;
 }
+h;
+} 
+font-size: 30pt;
+color: blue;
